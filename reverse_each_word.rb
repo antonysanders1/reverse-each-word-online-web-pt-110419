@@ -2,7 +2,7 @@
 
 def reverse_each_word(sentences)
   new_array = []
-  sentences.collect do |sentence_reversed|
+  sentences.each do |sentence_reversed|
     new_array << sentence_reversed.reverse 
   end 
   new_array
