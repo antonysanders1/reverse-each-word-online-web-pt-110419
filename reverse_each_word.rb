@@ -1,6 +1,7 @@
 #Reverse each word 
 
 def reverse_each_word(sentence)
+  new_array = []
   new_array << sentence
 
   new_array.collect do |sentence_reversed|
