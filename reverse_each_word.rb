@@ -13,8 +13,8 @@ def reverse_each_word(sentence)
 end 
 
 
-# NOTES 
-=begin
 
+=begin NOTES
+Ok, so apparently you can use ".split" on a string befor looping if the 
 
 =end
