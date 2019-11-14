@@ -7,7 +7,7 @@ def reverse_each_word(sentence)
 #  end 
 #  new_array
 
-new_array << sentence.split(" ")
+new_array << sentence
 new_array.collect do |sentence_reversed|
 sentence_reversed.reverse
 end
