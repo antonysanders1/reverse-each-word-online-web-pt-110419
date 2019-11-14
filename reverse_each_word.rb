@@ -7,7 +7,7 @@ def reverse_each_word(sentence)
     sentence_reversed.reverse
   end
 
-  new_array
+  p new_array
 
 end 
 
