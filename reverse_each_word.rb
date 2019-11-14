@@ -13,18 +13,5 @@ def reverse_each_word(sentence)
 end 
 
 
-#  new_array = []
-#  sentence.collect do |sentence_reversed|
-#    new_array << sentence_reversed.reverse 
-#  end 
-#  new_array
-
-
-#  new_array = []
-#  new_array << sentence
-
-#  new_array.collect do |sentence_reversed|
-#    sentence_reversed.reverse
-#  end
-
-#  p new_array
+# NOTES 
+# 
