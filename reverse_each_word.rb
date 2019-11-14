@@ -1,8 +1,8 @@
 #Reverse each word 
 
-def reverse_each_word(sentences)
+def reverse_each_word(sentence)
   new_array = []
-  sentences.each do |sentence_reversed|
+  sentence.collect do |sentence_reversed|
     new_array << sentence_reversed.reverse 
   end 
   new_array
