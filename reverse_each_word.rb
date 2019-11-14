@@ -14,7 +14,12 @@ end
 
 
 
-=begin NOTES
-Ok, so apparently you can use ".split" on a string befor looping if the 
+=begin 
+
+LAB NOTES:
+
+Ok, so apparently you can use ".split" on a string before looping it.
+This changes it from a strin to an array so that it CAN be looped
+YOU CANNOT LOOP STRINGS!!!
 
 =end
